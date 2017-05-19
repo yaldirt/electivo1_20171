@@ -6,3 +6,9 @@
  * and open the template in the editor.
  */
 
+for($i=0;$i<10;$i++){
+    echo "Hola";
+   
+}
+?>
+
